@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proje_iliskili-tablolar_my", "proje_iliskili-tablolar_my\proje_iliskili-tablolar_my.csproj", "{81B01F28-1C47-4C51-901A-4334E9A9452A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81B01F28-1C47-4C51-901A-4334E9A9452A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B01F28-1C47-4C51-901A-4334E9A9452A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B01F28-1C47-4C51-901A-4334E9A9452A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B01F28-1C47-4C51-901A-4334E9A9452A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B94AFAD9-3618-4305-B41C-51F779BB7185}
+	EndGlobalSection
+EndGlobal
